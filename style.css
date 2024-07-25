@@ -235,6 +235,13 @@ footer{
         overflow: none;
         background-color: var(--background-color);
     }
+    .head h2{
+        font-size: 2rem;
+    }
+    .header nav ul li a{
+        display: inline;
+        font-size: 20px ;
+    }
     .header{
         display: flex;
         flex-direction: column;
